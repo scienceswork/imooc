@@ -1,0 +1,452 @@
+2017-01-17 15:23:25 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("销售经理","艾派智能科技招聘")
+2017-01-17 15:23:25 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:25 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("Java技术专家","瑞云网络研发部招聘")
+2017-01-17 15:23:25 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:45 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("销售经理","艾派智能科技招聘")
+2017-01-17 15:23:45 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:45 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("Java技术专家","瑞云网络研发部招聘")
+2017-01-17 15:23:45 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:46 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("高级产品总监（高薪+期权）","食迅网技术部招聘")
+2017-01-17 15:23:46 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:46 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("H5开发工程师","汇客科技百创开发部招聘")
+2017-01-17 15:23:46 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:47 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("服务器开发工程师","鲸歌网络开发部招聘")
+2017-01-17 15:23:47 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:47 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("品牌公关（8k－16k）","多快好省网络运营部招聘")
+2017-01-17 15:23:47 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:48 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("数据挖掘工程师","酷云互动招聘")
+2017-01-17 15:23:48 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:48 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("资深文案主编","旭胜金融信息服务股份有限公司市场部招聘")
+2017-01-17 15:23:48 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:49 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("产品经理","北京医未科技产品部招聘")
+2017-01-17 15:23:49 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:49 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("运营专家","政采云运营部招聘")
+2017-01-17 15:23:49 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:50 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("高级CRM产品经理","小米商业产品部招聘")
+2017-01-17 15:23:50 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:50 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("OpenStack售前咨询顾问","EasyStack售前招聘")
+2017-01-17 15:23:50 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:51 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("运营经理","wifiin产品部招聘")
+2017-01-17 15:23:51 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:51 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("企业文化主管","国美控股集团招聘")
+2017-01-17 15:23:51 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:52 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("JAVA工程师","上海聪充网络科技有限公司开发中心招聘")
+2017-01-17 15:23:52 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:52 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("爬虫工程师","多准大数据研发部招聘")
+2017-01-17 15:23:52 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:53 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("Java","乐天创研招聘")
+2017-01-17 15:23:53 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:53 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("Java","乐天创研招聘")
+2017-01-17 15:23:53 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:53 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("新媒体运营","大疆传媒招聘")
+2017-01-17 15:23:53 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:54 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("数据专员","中怡康时代产品部招聘")
+2017-01-17 15:23:54 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:54 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("蚂蚁金服-高级java开发工...","蚂蚁金服蚂蚁金服-保险事业部-技术部招聘")
+2017-01-17 15:23:54 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:55 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("Android开发工程师（金融交...","互联网金融-投资教育技术平台中心招聘")
+2017-01-17 15:23:55 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:55 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("产品经理","京东招聘")
+2017-01-17 15:23:55 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:56 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("销售经理（上市公司+双休+...","北京电信通电信工程有限公司政企事业部招聘")
+2017-01-17 15:23:56 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:56 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("JS&amp;H5开发工程师","恺英网络招聘")
+2017-01-17 15:23:56 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:57 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("销售总监","清晓科技销售部招聘")
+2017-01-17 15:23:57 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:57 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("大客户销售经理","大眼睛旅行旅行事业部招聘")
+2017-01-17 15:23:57 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:58 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("domino开发工程师","上海登飞计算机科技有限公司开发部招聘")
+2017-01-17 15:23:58 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:58 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("Java软件开发工程师","上海登飞计算机科技有限公司招聘")
+2017-01-17 15:23:58 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:23:59 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("测试工程师","赛意技术项目部招聘")
+2017-01-17 15:23:59 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:24:00 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("销售经理","卖好车商家销售部招聘")
+2017-01-17 15:24:00 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:24:01 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("销售经理","由米定制市场部招聘")
+2017-01-17 15:24:01 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:24:01 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("销售经理","哗啦啦销售部招聘")
+2017-01-17 15:24:01 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:24:02 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("销售经理","四级科技商务部招聘")
+2017-01-17 15:24:02 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:24:02 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("销售经理","十六平方营销部招聘")
+2017-01-17 15:24:02 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:24:05 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("java技术经理","新华南方技术部招聘")
+2017-01-17 15:24:05 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:24:05 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("Java技术经理","易博天下IT部招聘")
+2017-01-17 15:24:05 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:24:06 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("java技术经理","恒拓高飞技术支持部招聘")
+2017-01-17 15:24:06 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:24:06 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("高级Java工程师","沸点软件部招聘")
+2017-01-17 15:24:06 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-17 15:24:07 [Warning] Query SQL: Insert Ignore Into `lagou` (`job_name`,`jon_company`) Values ("java技术经理","恒风网络java编程部招聘")
+2017-01-17 15:24:07 [Warning] Error SQL: Unknown column 'jon_company' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/lagou.php  on line 61 
+2017-01-18 01:08:13 [Warning] Query SQL: Insert Ignore Into `imooc` (`name`,`sex`,`job`,`time`,`integral`,`experience`,`description`,`follow`,`fans`,`img`,`url`) Values ("婉w","女","","36小时43分","4","1860","学习","2","","http://img.mukewang.com/533e564d0001308602000200-200-200.jpg","http://www.imooc.com/u/3659984")
+2017-01-18 01:08:13 [Warning] Error SQL: Unknown column 'job' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/imooc.php  on line 114 
+2017-01-18 01:08:13 [Warning] Query SQL: Insert Ignore Into `imooc` (`name`,`sex`,`job`,`time`,`integral`,`experience`,`description`,`follow`,`fans`,`img`,`url`) Values ("串猪神","保密 ","","639小时 3分","204","18950","一枚很奇葩的技术怪人","1","19","http://img.mukewang.com/56227802000131b806400640-200-200.jpg","http://www.imooc.com/u/2466856")
+2017-01-18 01:08:13 [Warning] Error SQL: Unknown column 'job' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/imooc.php  on line 114 
+2017-01-18 01:49:16 [Warning] Query SQL: Insert Ignore Into `ppdai` (`name`,`borrow`,`invest`,`sex`,`age`,`identity`,`url`) Values ("pdu3625628777","33 分","20 分","  男","&#13;
+25岁                               ","目前身份：&#13;
+                        工薪族","http://www.ppdai.com/user/pdu3625628777")
+2017-01-18 01:49:16 [Warning] Error SQL: Unknown column 'url' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/ppdai.php  on line 95 
+2017-01-18 01:49:16 [Warning] Query SQL: Insert Ignore Into `ppdai` (`name`,`borrow`,`invest`,`sex`,`age`,`identity`,`url`) Values ("pdu3145827004","29 分","20 分","  男","&#13;
+21岁                               ","目前身份：&#13;
+                        工薪族","http://www.ppdai.com/user/pdu3145827004")
+2017-01-18 01:49:16 [Warning] Error SQL: Unknown column 'url' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/ppdai.php  on line 95 
+2017-01-18 01:49:16 [Warning] Query SQL: Insert Ignore Into `ppdai` (`name`,`borrow`,`invest`,`sex`,`age`,`identity`,`url`) Values ("pdu7523576116","30 分","20 分","  男","&#13;
+23岁                               ","目前身份：&#13;
+                        工薪族","http://www.ppdai.com/user/pdu7523576116")
+2017-01-18 01:49:16 [Warning] Error SQL: Unknown column 'url' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/ppdai.php  on line 95 
+2017-01-18 01:49:16 [Warning] Query SQL: Insert Ignore Into `ppdai` (`name`,`borrow`,`invest`,`sex`,`age`,`identity`,`url`) Values ("pdu45638725","26 分","10 分","  女","&#13;
+30岁                               ","目前身份：&#13;
+                        工薪族","http://www.ppdai.com/user/pdu45638725")
+2017-01-18 01:49:16 [Warning] Error SQL: Unknown column 'url' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/ppdai.php  on line 95 
+2017-01-18 01:49:16 [Warning] Query SQL: Insert Ignore Into `ppdai` (`name`,`borrow`,`invest`,`sex`,`age`,`identity`,`url`) Values ("pdu8872134078","33 分","20 分","  男","&#13;
+27岁                               ","目前身份：&#13;
+                        工薪族","http://www.ppdai.com/user/pdu8872134078")
+2017-01-18 01:49:16 [Warning] Error SQL: Unknown column 'url' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/ppdai.php  on line 95 
+2017-01-18 01:49:16 [Warning] Query SQL: Insert Ignore Into `ppdai` (`name`,`borrow`,`invest`,`sex`,`age`,`identity`,`url`) Values ("pdu8242508501","30 分","20 分","  男","&#13;
+21岁                               ","目前身份：&#13;
+                        工薪族","http://www.ppdai.com/user/pdu8242508501")
+2017-01-18 01:49:16 [Warning] Error SQL: Unknown column 'url' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/ppdai.php  on line 95 
+2017-01-18 01:49:17 [Warning] Query SQL: Insert Ignore Into `ppdai` (`name`,`borrow`,`invest`,`sex`,`age`,`identity`,`url`) Values ("pdu2430652817","30 分","20 分","  男","&#13;
+23岁                               ","目前身份：&#13;
+                        工薪族","http://www.ppdai.com/user/pdu2430652817")
+2017-01-18 01:49:17 [Warning] Error SQL: Unknown column 'url' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/ppdai.php  on line 95 
+2017-01-18 01:49:17 [Warning] Query SQL: Insert Ignore Into `ppdai` (`name`,`borrow`,`invest`,`sex`,`age`,`identity`,`url`) Values ("pdu8811837836","20 分","10 分","  女","&#13;
+33岁                               ","目前身份：&#13;
+                        工薪族","http://www.ppdai.com/user/pdu8811837836")
+2017-01-18 01:49:17 [Warning] Error SQL: Unknown column 'url' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/ppdai.php  on line 95 
+2017-01-18 01:49:17 [Warning] Query SQL: Insert Ignore Into `ppdai` (`name`,`borrow`,`invest`,`sex`,`age`,`identity`,`url`) Values ("pdu3178058858","30 分","20 分","  男","&#13;
+26岁                               ","目前身份：&#13;
+                        工薪族","http://www.ppdai.com/user/pdu3178058858")
+2017-01-18 01:49:17 [Warning] Error SQL: Unknown column 'url' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/ppdai.php  on line 95 
+2017-01-18 01:49:18 [Warning] Query SQL: Insert Ignore Into `ppdai` (`name`,`borrow`,`invest`,`sex`,`age`,`identity`,`url`) Values ("pdu5683728083","20 分","10 分","  男","&#13;
+33岁                               ","目前身份：&#13;
+                        工薪族","http://www.ppdai.com/user/pdu5683728083")
+2017-01-18 01:49:18 [Warning] Error SQL: Unknown column 'url' in 'field list'
+debug_backtrace：
+[0] in function db::insert  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1703 
+[1] in function phpspider->get_html_fields  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 1156 
+[2] in function phpspider->collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 995 
+[3] in function phpspider->do_collect_page  in /Users/xiezehui/Code/project/project/phpspider/core/phpspider.php  on line 923 
+[4] in function phpspider->start  in /Users/xiezehui/Code/project/project/phpspider/demo/ppdai.php  on line 95 
